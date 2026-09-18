@@ -39,10 +39,8 @@ El sábado Alberto enviará un lote adicional y una regla nueva. El domingo podr
 
 | Viernes 21:00 | Sábado 18:00 |
 | --- | --- |
-| 500 facturas PDF, Excel, ERP local y ejemplo de outcomes JSONL | 40 facturas adicionales, actualización del ERP y norma v4 |
-| Esta guía y la rúbrica | Escenario de Mutación |
-
-**Soporte:** mentores de Maisa estarán en el espacio del track. Podéis pedir una consulta de diseño o un simulacro breve de defensa.
+| 500 facturas PDF, Excel, ERP local| 40 facturas adicionales, actualización del ERP y norma v4 |
+| Esta guía y la rúbrica | Escenario sorpresa |
 
 ## Qué se entrega (domingo 10:30, Madrid)
 
